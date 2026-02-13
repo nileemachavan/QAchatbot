@@ -1,0 +1,7 @@
+langchain-openai
+pandas
+numpy
+python-dotenv
+langchain_community
+langchain_core
+streamlit
